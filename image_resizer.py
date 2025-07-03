@@ -48,8 +48,7 @@ def resize_images(folder_path, width, height):
 
 # Usage
 if __name__ == "__main__":
-    # Set your folder path and desired dimensions
-    folder_path = "./image_files"  # Change this to your folder path
+    folder_path = "./image_files" 
     new_width = 800
     new_height = 600
     
